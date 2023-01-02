@@ -7,4 +7,5 @@ public class MyClass {
     System.out.println(myObj1.x);
     System.out.println(myObj2.x);
   }
-}
+}hello world
+hello world
